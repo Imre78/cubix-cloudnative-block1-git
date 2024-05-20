@@ -1,3 +1,9 @@
 Hello, here we will play a bit with Git!
 
+
 Have a new branch
+
+Now we are playing.
+
+We changed in the new branch.
+
